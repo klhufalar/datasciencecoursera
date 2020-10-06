@@ -2,7 +2,8 @@
 title: "HelloWorld"
 author: "Me"
 date: "10/7/2020"
-output: html_document
+output:
+  pdf_document: default
 ---
 
 
